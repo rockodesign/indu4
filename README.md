@@ -1,2 +1,2 @@
-<h2>Probando Sitio Indu4
-	<p>probandooo
+<h2>Sitio de Industrial 4 - Río Gallegos</h2>
+<p>Primer repositorio en github</p>
